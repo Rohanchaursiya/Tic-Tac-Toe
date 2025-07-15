@@ -3,11 +3,12 @@
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This web-based version lets two players take turns marking "X" and "O" on a 3×3 grid and determines the winner automatically.
 
 📁 Project Structure
-tic-tac-toe/
-│
-├── index.html         # Main HTML layout
-├── style.css          # Styles for layout and animations
-└── app.js             # Game logic and interactivity
+    tic-tac-toe/
+    ├── index.html  # Main HTML layout
+    ├── style.css   # Styles for layout and animations
+    ├── app.js      # Game logic and interactivity
+    ├── README.md
+    └── image.png   # Add your screenshot here
 
 🚀 How to Run the Game
 1.Download or clone this repository:
@@ -53,11 +54,9 @@ tic-tac-toe/
     Clean separation of HTML, CSS, and JS files
 
 📸 Screenshot
+    ![Game Screenshot](images/image.png)
 
-    ![alt text](image.png)
-
-    ![alt text](image-1.png)
-
+    ![Winning Message](images/image-1.png)
 
 🤓 Author
-Created with ❤️ by Rohan Chaursiya
+    Created with ❤️ by Rohan Chaursiya
